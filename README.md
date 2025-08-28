@@ -1,4 +1,4 @@
 ### Hello!👋
-I'm a frontend developer with more than 5 years of experience in developing dynamic user interfaces and web applications using Angular, JavaScript, TypeScript, HTML and CSS.</h2>
+I'm a frontend developer with over 6 years of experience in building web applications using modern frameworks.</h2>
 
 [LinkedIn](https://www.linkedin.com/in/damian-grabowski97/) | [Email](mailto:hello@damian-grabowski.com)
